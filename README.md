@@ -10,8 +10,8 @@
 | Mukodza Taurai K|N02642099Y | Mukodza| Dataset Researcher |
 | Member 3 | To be filled | To be filled | System Designer |
 | Member 4 | To be filled | To be filled | Programmer |
-| Bright Mudimu| N02651784C| brightm14| group_leader writer and presenter |
-| Member 6 | To be filled | To be filled | Documentation and Evaluation |
+| Member 5 | To be filled | To be filled | Security and Testing |
+| Tinashe T Macheza | N02652163J | Ti-nashe | Documentation and Evaluation |
 
 ## Individual Contributions
 
